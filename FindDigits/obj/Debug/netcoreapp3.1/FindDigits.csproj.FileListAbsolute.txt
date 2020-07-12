@@ -1,0 +1,13 @@
+D:\hackerRank\FindDigits\FindDigits\bin\Debug\netcoreapp3.1\FindDigits.exe
+D:\hackerRank\FindDigits\FindDigits\bin\Debug\netcoreapp3.1\FindDigits.deps.json
+D:\hackerRank\FindDigits\FindDigits\bin\Debug\netcoreapp3.1\FindDigits.runtimeconfig.json
+D:\hackerRank\FindDigits\FindDigits\bin\Debug\netcoreapp3.1\FindDigits.runtimeconfig.dev.json
+D:\hackerRank\FindDigits\FindDigits\bin\Debug\netcoreapp3.1\FindDigits.dll
+D:\hackerRank\FindDigits\FindDigits\bin\Debug\netcoreapp3.1\FindDigits.pdb
+D:\hackerRank\FindDigits\FindDigits\obj\Debug\netcoreapp3.1\FindDigits.csprojAssemblyReference.cache
+D:\hackerRank\FindDigits\FindDigits\obj\Debug\netcoreapp3.1\FindDigits.AssemblyInfoInputs.cache
+D:\hackerRank\FindDigits\FindDigits\obj\Debug\netcoreapp3.1\FindDigits.AssemblyInfo.cs
+D:\hackerRank\FindDigits\FindDigits\obj\Debug\netcoreapp3.1\FindDigits.csproj.CoreCompileInputs.cache
+D:\hackerRank\FindDigits\FindDigits\obj\Debug\netcoreapp3.1\FindDigits.dll
+D:\hackerRank\FindDigits\FindDigits\obj\Debug\netcoreapp3.1\FindDigits.pdb
+D:\hackerRank\FindDigits\FindDigits\obj\Debug\netcoreapp3.1\FindDigits.genruntimeconfig.cache
